@@ -12,4 +12,4 @@ Security operations will also need to have detection on *NEW* passkey added from
 7.	| project TimeGenerated, AccountUPN, ActivityDisplayName, AAGUID, WebAuthnInfo
 
 Public preview: Expanding passkey support in Microsoft Entra ID
-https://lnkd.in/g8PAfKYk
+https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-expanding-passkey-support-in-microsoft-entra-id/ba-p/4062702
